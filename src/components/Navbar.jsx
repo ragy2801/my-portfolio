@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 
-function Navbar() {
+ function Navbar() {
   return (
     <>
     <nav className='navbar'>
@@ -15,4 +15,4 @@ function Navbar() {
   )
 }
 
-export default N
+export default Navbar
